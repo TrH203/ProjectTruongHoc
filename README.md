@@ -43,7 +43,7 @@ This application manages various school functions, providing distinct roles for 
 <img width="468" alt="Admin Form 2" src="https://github.com/user-attachments/assets/286471ac-26d3-46b3-9fdc-41dea8190f69">
 
 <img width="468" alt="Admin Form 3" src="https://github.com/user-attachments/assets/714bf38e-108b-4475-a00c-bdb6e442d4f8">
-
+---
 <img width="468" alt="Admin Form 4" src="https://github.com/user-attachments/assets/2cdb9380-e2f8-4312-a5b3-76811b0ef049">
 
 <img width="468" alt="Admin Form 5" src="https://github.com/user-attachments/assets/0aec2f5e-b358-4448-a685-3649b82a41a1">
